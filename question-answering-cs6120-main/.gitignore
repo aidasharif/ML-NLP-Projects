@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+bidaf/__pycache__
+bidaf/.texpadtmp/
+!bidaf/data/dev-v2.0.json
+!bidaf/data/test-v2.0.json
+!bidaf/data/train-v2.0.json
+bidaf/.ipynb_checkpoints
